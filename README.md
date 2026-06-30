@@ -39,6 +39,3 @@ Then run the program:
 ```bash
 wms.exe
 ```
-
-## Author
-Aylin
