@@ -4,7 +4,7 @@ The system simulates basic inventory and user management operations using fundam
 This system supports two types of users : **Admin** and **User**, each with different access levels.
 Users can browse products, purchase items, and check their balance.
 Admin users have additional cammands for managing inventory and user balances;however, some admin functionalities may require further improvements.
-Inventory data is stored in a file and updated during program exection.
+Inventory data is stored in a file and updated during program execution.
 
 ## Features
 ### User Features
