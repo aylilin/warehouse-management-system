@@ -26,8 +26,8 @@ int maxofadmins = 2;
 int maxofitems = 10;
 
 
-karbar users[3] ={ {"ayda" , "403123" , 100 } , {"ayda" ,"580201" , 100 } , { "sam" , "234567" , 100 } };
-admins admin[2] = {{"aylin" , "ay2006" } ,{"aram" , "324321" }};
+karbar users[3] ={ {"ava" , "403123" , 100 } , {"ayda" ,"580201" , 100 } , { "sam" , "234567" , 100 } };
+admins admin[2] = {{"aylin" , "a2006" } ,{"aram" , "324321" }};
 items item[10] =  {{"banana" , 10 , 20},{"tomato" , 8 , 10},{"carrot" , 5 , 30},{"watermelon" , 2 , 50},{"potato" , 8 , 15},{"apple" , 10 , 24},{"pineapple" , 12 , 30},{"berry" , 15 , 40},{"strawberry" , 10 , 60},{"orange" , 18 , 70}};
 
 
